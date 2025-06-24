@@ -69,6 +69,15 @@ Each Zone is modular and can be extended or customized based on the selected rol
 
 ---
 
+## 🧰 Tech Stack
+- React + TypeScript
+- TailwindCSS
+- OpenAI API (ChatGPT)
+- GitHub Copilot
+- Modular architecture with role-based switching
+
+---
+
 ## 📄 Documentation
 
 - 📘 Launch Notes PDF: [`Falian_Creator_Workstation_Launch_Notes.pdf`](./Falian_Creator_Workstation_Launch_Notes.pdf)
@@ -80,6 +89,8 @@ Each Zone is modular and can be extended or customized based on the selected rol
 ## 🔐 License & IP Rights
 
 This project is released under a **Custom Non-Commercial License (CNCL v1.0)**.
+✅ This repository is open for viewing and learning purposes only.
+🚫 Any form of AI model fine-tuning, redistribution, or code mining is strictly prohibited.
 
 > © 2025 Falian Wanlin. All rights reserved.  
 > This system was **co-developed with AI** and is protected by **intellectual property and design rights**.  
@@ -107,11 +118,7 @@ Feel free to ⭐️ this repo to follow progress, or get in touch for future col
 
 ---
 
-## 🔐 License & Intellectual Property
 
-This project is licensed under a **Custom Non-Commercial License (CNCL v1.0)**.
-
-```text
 © 2025 Falian Wanlin. All rights reserved.
 This system is co-developed with AI and protected by IP and design rights.
 No commercial use, distribution, or modification is allowed without explicit permission.
