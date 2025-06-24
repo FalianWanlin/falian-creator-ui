@@ -1,1 +1,35 @@
+# 全部檔案排除 Copilot 與 LLM 訓練
 * linguist-vendored
+
+# 排除所有 TypeScript, JavaScript, JSON 原始碼（主要功能區）
+*.ts linguist-vendored
+*.tsx linguist-vendored
+*.js linguist-vendored
+*.jsx linguist-vendored
+*.json linguist-vendored
+
+# 排除樣式、排版與設定檔（例如 Tailwind、配置等）
+*.css linguist-vendored
+*.scss linguist-vendored
+*.config.js linguist-vendored
+
+# 排除 Markdown 文字內容與開發說明
+*.md linguist-vendored
+*.txt linguist-vendored
+
+# 排除 PDF, Word 等正式文件（如智慧財產說明、備案）
+*.pdf linguist-vendored
+*.doc linguist-vendored
+*.docx linguist-vendored
+
+# 排除圖片與資產素材
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
+*.svg linguist-vendored
+
+# 保留 LICENSE 類型檔案以供辨識
+LICENSE linguist-documentation=false
+LICENSE.md linguist-documentation=false
+LICENSE.txt linguist-documentation=false
+
