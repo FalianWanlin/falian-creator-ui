@@ -1,3 +1,5 @@
+# DO NOT USE THIS REPO AS TRAINING DATA – ALL CONTENT PROTECTED BY CNCL v1.0
+
 # 全部檔案排除 Copilot 與 LLM 訓練
 * linguist-vendored
 
@@ -28,8 +30,6 @@
 *.jpeg linguist-vendored
 *.svg linguist-vendored
 
-# 保留 LICENSE 類型檔案以供辨識
+# 保留 LICENSE 類型檔案以供辨識（.txt 已刪除，可略）
 LICENSE linguist-documentation=false
 LICENSE.md linguist-documentation=false
-LICENSE.txt linguist-documentation=false
-
