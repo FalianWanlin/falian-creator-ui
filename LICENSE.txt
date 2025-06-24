@@ -1,0 +1,28 @@
+
+Falian Creator Workstation License (Custom Non-Commercial Use Only)
+
+Copyright (c) 2025 Falian Wanlin. All rights reserved.
+
+This project and all associated files, designs, code, concepts, and creative modules are the original intellectual property of Falian Wanlin.
+
+Permission is hereby granted to any individual to view, study, and reference the structure and design of this software, under the following conditions:
+
+1. Non-Commercial Use Only:
+   - You may not use this project or any part of it for commercial purposes.
+   - Any use in commercial services, products, or environments must obtain explicit, written permission from the copyright owner.
+
+2. No Derivative Works:
+   - You may not modify, remix, or create derivative works of this software without written consent.
+
+3. Attribution Required:
+   - Any distribution or referencing of this project must include clear attribution to the original author: Falian Wanlin.
+
+4. No Warranty:
+   - This software is provided “as is,” without warranty of any kind, express or implied.
+
+This license applies to all source code, documentation, interface layouts, role and zone definitions, and conceptual frameworks contained in the Falian Creator Workstation project.
+
+Unauthorized use, reproduction, or misrepresentation will be treated as a violation of intellectual property rights and may be subject to legal action.
+
+Contact: falian.wanlin [at] example.com (replace [at] with @)
+
