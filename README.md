@@ -95,7 +95,7 @@ This project is released under a **Custom Non-Commercial License (CNCL v1.0)**.
 > © 2025 Falian Wanlin. All rights reserved.  
 > This system was **co-developed with AI** and is protected by **intellectual property and design rights**.  
 > Unauthorized commercial use, resale, or modification is strictly prohibited.  
-> For collaboration, licensing, or press contact: **falian.wanlin.contact@gmail.com**
+> For collaboration, licensing, or press contact: **falian.wanlin@gmail.com**
 
 ![IP Protected](https://user-images.githubusercontent.com/placeholder/ip-protection-badge.png)
 
