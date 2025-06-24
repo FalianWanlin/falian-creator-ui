@@ -101,7 +101,7 @@ This project is released under a **Custom Non-Commercial License (CNCL v1.0)**.
 > Unauthorized commercial use, resale, or modification is strictly prohibited.  
 > For collaboration, licensing, or press contact: **falian.wanlin@gmail.com**
 
-![IP Protected](https://user-images.githubusercontent.com/placeholder/ip-protection-badge.png)
+![IP Protected](https://raw.githubusercontent.com/FalianWanlin/falian-creator-ui/main/ChatGPT%20Image%20Jun%2024%2C%202025,%2005_37_31%20PM.png)
 
 ---
 
