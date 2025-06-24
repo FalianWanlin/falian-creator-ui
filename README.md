@@ -30,9 +30,7 @@ This project integrates AI-powered chat, role-based workspace switching, and fle
 13. History Zone
 14. Analytics Zone
 
-## 📄 Documentation
-
-🆕 [Launch Notes PDF: Falian Creator Workstation](./falian-creator-ui-docs-Falian_Creator_Workstation_Launch_Notes.pdf)
+## 🆕 [Launch Notes PDF: Falian Creator Workstation](./Falian_Creator_Workstation_Launch_Notes.pdf)
 
 This document outlines the origin of the project, the development collaboration with AI, and the vision for future modular expansion and protection mechanisms.
 
