@@ -2,6 +2,14 @@
 
 **Falian Creator Workstation** is a modular, role-based, AI-powered creative environment. Built for creators, writers, researchers, teachers, lyricists, poets, and more, it enables focused workflows through zone-based interaction, real-time AI assistance, and adaptive role-based UI switching.
 
+# 🌟 Falian Creator Workstation
+
+![Protected](https://img.shields.io/badge/IP%20Protected-No%20AI%20Training-red)
+![License](https://img.shields.io/badge/License-CNCL%20v1.0-blue)
+![Status](https://img.shields.io/badge/Status-Development-green)
+
+**Falian Creator Workstation** is a modular, role-based...
+
 ---
 
 ## 🔧 Key Features
