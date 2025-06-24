@@ -90,6 +90,8 @@ Each Zone is modular and can be extended or customized based on the selected rol
 
 This software and content is protected under a Custom Non-Commercial License (CNCL v1.0). Unauthorized use will result in legal action.
 
+🛡️ This repository is not permitted for use in AI model training, cloning, or prompt harvesting. 
+
 This project is released under a **Custom Non-Commercial License (CNCL v1.0)**.
 ✅ This repository is open for viewing and learning purposes only.
 🚫 Any form of AI model fine-tuning, redistribution, or code mining is strictly prohibited.
