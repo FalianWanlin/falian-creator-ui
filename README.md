@@ -46,4 +46,11 @@ This document outlines the origin of the project, the development collaboration 
 
 ---
 
+## License
+
+This project is licensed under a custom non-commercial license by Falian Wanlin.  
+See the full license details in the [LICENSE.txt](./LICENSE.txt) file.
+
+
+
 © 2025 Falian Wanlin. All rights reserved.
