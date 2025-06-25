@@ -41,9 +41,9 @@ Each zone is modular and fully adaptable based on the user’s selected role(s).
 
 ## 👤 Role System
 
-- Choose up to **3 roles per session**
+- Choose up to 3 roles per session
 - AI tone, available zones, and tools adapt to role
-- Includes over **50 professional identities**, such as:
+- Includes over 50 professional identities, such as:
   - ✍️ Writer
   - 🌺 Poet
   - 🎼 Lyricist
@@ -80,8 +80,8 @@ Each zone is modular and fully adaptable based on the user’s selected role(s).
 
 ## 📄 Documentation
 
-- 📘 Launch Notes PDF: [`Falian_Creator_Workstation_Launch_Notes.pdf`](./Falian_Creator_Workstation_Launch_Notes.pdf)
-- 🔐 Custom License: [`LICENSE.md`](./LICENSE.md)
+- 📘 Launch Notes PDF: `Falian_Creator_Workstation_Launch_Notes.pdf`
+- 🔐 Custom License: `LICENSE.md`
 - ⚠️ Intellectual Property Protected
 
 ---
@@ -90,12 +90,12 @@ Each zone is modular and fully adaptable based on the user’s selected role(s).
 
 This project is released under a **Custom Non-Commercial License (CNCL v1.0)**.
 
-> ✅ Viewing and learning use only  
-> ❌ Redistribution, model fine-tuning, or commercial use is prohibited
+✅ Viewing and learning use only  
+❌ Redistribution, model fine-tuning, or commercial use is prohibited
 
 > © 2025 Falian Wanlin. All rights reserved.  
 > Co-developed with AI and protected by intellectual property and design rights.  
-> For collaboration or media inquiries: **falian.wanlin@gmail.com**
+> For collaboration or media inquiries: **falian.wanlin.contact@gmail.com**
 
 ![IP Protected](https://user-images.githubusercontent.com/placeholder/ip-protection-badge.png)
 
@@ -104,17 +104,13 @@ This project is released under a **Custom Non-Commercial License (CNCL v1.0)**.
 ## 📢 Vision
 
 > “Falian Creator is designed to stay ahead of the creative AI curve —  
-as a visionary system where humans and AI co-build, co-write, and co-inspire.”
+> as a visionary system where humans and AI co-build, co-write, and co-inspire.”
 
 ---
 
 ## 🔗 Related Repositories & Links
 
-- [`falian-original-works`](https://github.com/FalianWanlin/falian-original-works) *(private)* – Soul Theory archives & IP filings
-- [`lotusvowlight.com`](https://www.lotusvowlight.com) *(coming soon)* – Official Creator Hub & Brand Gateway
-
-
----
+- `falian-original-works (private)` – Soul Theory archives & IP filings
+- `lotusvowlight.com (coming soon)` – Official Creator Hub & Brand Gateway
 
 © 2025 Falian Wanlin. All rights reserved. This system is co-developed with AI and protected by IP and design rights. No commercial use, distribution, or modification is allowed without explicit permission.
-
