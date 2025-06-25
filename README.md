@@ -114,7 +114,7 @@ This project is released under a **Custom Non-Commercial License (CNCL v1.0)**.
 ## 🔗 Related Repositories
 
 - [`falian-original-works`](https://github.com/FalianWanlin/falian-original-works) *(private)* – Soul Theory concept archives & IP filings  
-- [`cosmicblueprintpublishing.com`](https://www.cosmicblueprintpublishing.com) *(coming soon)* – Official publishing gateway
+- [`lotusvowlight.com`](https://www.lotusvowlight.com) *(coming soon)* – Official Creator Hub & Brand Gateway  
 
 ---
 
